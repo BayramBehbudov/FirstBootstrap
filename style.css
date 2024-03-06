@@ -1,0 +1,8 @@
+#headerinput::placeholder{
+    color: white!important;
+    opacity: 0.5;
+}
+.headerlink:hover{
+    color: white!important;
+}
+
